@@ -12,3 +12,5 @@ Project contains:
 - Simple Injector IOC container integration with bootstrapper
   - AppContainer defines bindings and AppBootstrapper consumes them
   - Default minimal binding for Caliburn Micro added
+
+*Project uses .NET 4.5.2 and C# 6; created using Visual Studio 2015*
