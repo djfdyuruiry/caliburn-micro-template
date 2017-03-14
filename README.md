@@ -13,4 +13,9 @@ Project contains:
   - AppContainer defines bindings and AppBootstrapper consumes them
   - Default minimal binding for Caliburn Micro added
 
-*Project uses .NET 4.5.2 and C# 6; created using Visual Studio 2015*
+Platform & Library Versions:
+
+- .NET 4.5.2 
+- C# 6 (Visual Studio 2015)
+- Caliburn.Micro 3.0.3
+- SimpleInjector 3.3.2
