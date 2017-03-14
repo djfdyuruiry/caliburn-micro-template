@@ -8,7 +8,6 @@ namespace CaliburnMicroTemplate
         public void Configure()
         {
             Register<IWindowManager, WindowManager>();
-            RegisterCollection<ShellView>();
 
             Verify();
         }
